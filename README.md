@@ -1,16 +1,19 @@
 # XiaoHongShu-dl-Bookmark
-使用書籤輕鬆下載小紅書圖片與影片
-
+使用書籤輕鬆下載小紅書筆記的圖片與影片
+<br><br>
 
 ## 注意
-1. 此程式僅支援Chromium基礎的瀏覽器，例如:
+1. 此程式僅支援 Mac 或 PC 上，以 Chromium 為基礎打造的瀏覽器，例如:
 - Google Chrome
 - Microsoft Edge (版本79以上)
 - Brave
 2. 本程式隨時可能隨著小紅書官方更新網頁設計而失效，不擔保一定有用
 3. 請務必遵守所有相關法律規範，僅供下載自己有權下載的筆記。
 
+<br>
 <hr>
+<br>
+
 
 ## 下載圖片
 
@@ -30,8 +33,10 @@ javascript:console.clear();const answer = window.confirm(`需要先按下F12，�
 6. 在圖片按右鍵，選擇[另存圖片]即可
 
 - 注意，如果使用過這個書籤腳本，需要重新整理頁面後才能再次使用
-
+- 
+<br>
 <hr>
+<br>
 
 ## 下載影片
 
