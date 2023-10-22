@@ -33,7 +33,7 @@ javascript:console.clear();const answer = window.confirm(`需要先按下F12，�
 6. 在圖片按右鍵，選擇[另存圖片]即可
 
 - 注意，如果使用過這個書籤腳本，需要重新整理頁面後才能再次使用
-- 
+
 <br>
 <hr>
 <br>
